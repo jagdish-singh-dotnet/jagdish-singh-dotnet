@@ -1,97 +1,101 @@
-<h1 align="center">Jagdish Singh</h1>
-<p align="center">
-Senior Software Engineer • Enterprise Architect • .NET Specialist
-</p>
+<div align="center">
 
-<p align="center">
-13+ Years Designing & Delivering Production-Grade Enterprise Systems
-</p>
+# Jagdish Singh
 
----
+### Senior Software Engineer | Enterprise Backend Architect | .NET Specialist
 
-## Executive Summary
+Designing scalable, production-grade enterprise systems for 13+ years.
 
-I design, build, and stabilize enterprise-grade backend systems used in:
-
-- Pharmaceutical Supply Chain Platforms
-- Automotive Operations Systems
-- Government Welfare Portals
-
-Core Strength:  
-Production ownership, architecture clarity, system stability, and performance engineering.
+</div>
 
 ---
 
-## Architecture Expertise
+## About
 
-• ASP.NET Core (.NET 8/9/10)  
-• Modular Monolithic Architecture  
-• Layered & Clean Architecture  
-• RESTful API Systems  
-• JWT / OAuth 2.0 Security  
-• SQL Server Query Optimization  
-• AWS Infrastructure Deployment  
-• Enterprise Integration (Salesforce APIs)  
+Enterprise-focused backend engineer with 13+ years of experience designing, delivering, and stabilizing large-scale production systems across:
 
----
+• Pharmaceutical Supply Chain Platforms  
+• Automotive Operations Systems  
+• Government Welfare Infrastructure  
 
-## Production Impact
-
-• Reduced dealer onboarding TAT by 20% (Honda HMSI)  
-• Supported 500,000+ users in Government Welfare Portal  
-• Built end-to-end Pharma Procurement Engine  
-• Delivered multi-release enterprise platforms with production stability  
-• Designed compliance & regulatory workflow engines  
+My work centers around system design clarity, performance engineering, production stability, and long-term maintainability.
 
 ---
 
-## Selected Enterprise Projects
+## What I Actually Do
 
-### Clyzo – B2B Pharma Marketplace
-End-to-end RFQ → Orders → Shipment → Compliance workflow platform  
-Salesforce integrations, MIS dashboards, admin control panels  
-
-### R-Solve – Regulatory Compliance System
-GMP / COA / Audit workflow automation with full traceability  
-
-### DD Portal – Honda TAT Management
-Dynamic SLA engine with escalation logic and real-time dashboards  
+- Architect modular backend systems using ASP.NET Core
+- Design clean API-first architectures
+- Optimize SQL Server performance for production workloads
+- Implement secure authentication & RBAC frameworks
+- Lead enterprise integrations (Salesforce, payment gateways, regulatory systems)
+- Deliver multi-release enterprise platforms with production accountability
 
 ---
 
-## Technology Stack
+## Impact & Scale
 
-### Backend
-C#, ASP.NET Core, Web API, Entity Framework, SQL Server
-
-### Frontend
-React, Angular, Bootstrap, Tailwind CSS
-
-### Cloud & DevOps
-AWS (EC2, S3, Lambda), CI/CD Pipelines, GitHub Actions
+• Reduced Dealer Onboarding TAT by 20% through SLA-driven automation  
+• Supported 500,000+ public users with 99.9% uptime  
+• Engineered full-cycle procurement workflow for pharma marketplace  
+• Built compliance automation platforms for regulated industries  
+• Managed enterprise-grade production releases & stability engineering  
 
 ---
 
-## GitHub Analytics
+## Core Architecture Strength
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagdish-singh-dotnet&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagdish-singh-dotnet&layout=compact&theme=default)
-
----
-
-## Professional Focus
-
-Currently interested in:
-
-• Enterprise Backend Architecture  
-• Performance Optimization  
-• System Modernization  
-• Senior Engineering / Lead Roles  
+| Domain | Expertise |
+|--------|----------|
+| Backend | ASP.NET Core (.NET 8/9/10), Web API, Entity Framework |
+| Architecture | Modular Monolith, Layered, Clean Architecture |
+| Security | JWT, OAuth 2.0, RBAC |
+| Database | SQL Server Query Optimization, Indexing, Performance Tuning |
+| Cloud | AWS (EC2, S3, Lambda), CI/CD |
+| Frontend | React, Angular |
 
 ---
 
-## Connect
+## Selected Enterprise Systems
 
-LinkedIn: https://linkedin.com/in/jagdish-singh-dotnet/  
-Email: jagdish.rajput.it@gmail.com
+### Clyzo – B2B Pharma Procurement Engine
+Enterprise-grade RFQ → Order → Compliance workflow  
+Salesforce integrations, MIS dashboards, regulatory documentation management  
+
+### R-Solve – Regulatory & Audit Platform
+GMP / COA / Audit workflow automation with complete traceability  
+
+### Honda HMSI – TAT Management System
+Dynamic SLA enforcement with escalation automation & analytics dashboards  
+
+---
+
+## Engineering Philosophy
+
+- Production > Prototype  
+- Stability > Hype  
+- Architecture > Framework  
+- Clarity > Complexity  
+
+---
+
+## Currently Focused On
+
+• Enterprise Backend Modernization  
+• High-Performance API Systems  
+• System Scalability & Optimization  
+• Senior Engineering / Architecture Roles  
+
+---
+
+<div align="center">
+
+### Connect
+
+LinkedIn  
+https://linkedin.com/in/jagdish-singh-dotnet/
+
+Email  
+jagdish.rajput.it@gmail.com
+
+</div>
